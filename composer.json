@@ -1,6 +1,6 @@
 {
   "name": "magento2translations/language_ar_sa",
-  "description": "Arabic (العربية) Magento2 Language Pack (ar_SA) - From Magento2Translations",
+  "description": "Arabic (العربية) Magento2 Language Pack (ar_EG) - From Magento2Translations",
   "version": "0.0.3",
   "homepage": "http://magento2translations.github.io/",
   "license": [
@@ -8,12 +8,12 @@
   ],
   "authors": [
     {
-      "name": "Justin van Elst",
-      "homepage": "https://github.com/MrGekko"
+      "name": "mazen elmasry",
+      "homepage": "https://github.com/mazenelmasry"
     },
     {
-      "name": "Magento official translations project for Magento 2",
-      "homepage": "https://crowdin.com/project/magento-2"
+      "name": "Magento official translations arabic for Magento 2",
+      "homepage": "https://github.com/mazenelmasry"
     }
   ],
   "require": {
