@@ -17,13 +17,13 @@ Translation progress:![Progress](http://progressed.io/bar/71)
 To install this translation package with composer you need access to the command line of your server and you need to have [Composer](https://getcomposer.org).
 ```
 cd <your magento path>
-composer require magento2translations/language_ar_eg:dev-master
+composer require magento2translations/magento2-language-ar_eg:dev-master
 php bin/magento cache:clean
 ```
 ## Manually
 To install this language package manually you need access to your server file system.
 * Download the zip file [here](https://github.com/Magento2Translations/language_ar_eg/archive/master.zip).
-* Upload the contents to `<your magento path>/app/i18n/magento2translations/language_ar_eg`.
+* Upload the contents to `<your magento path>/app/i18n/magento2translations/magento2-language-ar_eg`.
 * The composer files should then be located like this `<your magento path>/app/i18n/magento2translations/ar_EG/ar_EG.csv`.
 * Go to your Magento admin panel and clear the caches.
 
